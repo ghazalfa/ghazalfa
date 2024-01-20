@@ -1,5 +1,9 @@
 
-# Hi there 👋, I'm Ghazal - a Biomedical Engineering Student Specializing in CS! 
+# Hi there 👋
+# I'm Ghazal - a Biomedical Engineering Student Specializing in CS! 
+
+I'm currently an embedded software engineer for UBC Bionics where we are engineering a bionic arm 🦾
+
 
 
 
