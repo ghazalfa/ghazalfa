@@ -1,7 +1,13 @@
 
-# Hi there 👋  <br> I'm Ghazal - a Biomedical Engineering Student Specializing in CS! 
+# Hi 👋  <br> I'm Ghazal - a Biomedical Engineering Student Specializing in CS! 
+
+### I'm especially passionate about the intersection of Medicine and CS, but really I'm always eager to learn about new technologies!
 
 I'm currently an embedded software engineer for UBC Bionics where we are engineering a bionic arm 🦾
+
+Spent my summer developing a Signal Processing tool in Rust for implantable biosensors 👩‍💻
+
+Worked on a project to leverage machine learning for genomic analysis of Invasive Breast Carcinoma ⚕️
 
 
 
