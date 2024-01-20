@@ -1,5 +1,5 @@
 
-# Hi 👋  <br> I'm Ghazal - a Biomedical Engineering Student Specializing in CS! 
+# Hi 👋  <br>   <br>  I'm Ghazal - a Biomedical Engineering Student Specializing in CS! 
 
 ### I'm especially passionate about the intersection of Medicine and CS, but really I'm always eager to learn about new technologies!
 
