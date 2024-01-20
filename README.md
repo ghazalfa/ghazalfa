@@ -7,7 +7,7 @@ I'm currently an **embedded software engineer** for UBC Bionics where we are eng
 
 Spent my summer developing a **Signal Processing tool** in Rust for implantable biosensors 👩‍💻
 
-made a project that leveraged **machine learning** for **genomic analysis** of Invasive Breast Carcinoma ⚕️
+Developed a project that leveraged **machine learning** for **genomic analysis** of Invasive Breast Carcinoma ⚕️
 
 I'm always open to chat! Feel free to  reach out to me on linkedin [@ghazal fallahpour](https://www.linkedin.com/in/ghazal-fallahpour-67990918a/), or by email ghazalfa@icloud.com 🙂
 
